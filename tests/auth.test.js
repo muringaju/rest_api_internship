@@ -12,7 +12,7 @@ afterAll(async () => {
 });
 
 describe('Auth Endpoints', () => {
-  let username = 'testuser';
+  let username = 'caleb';
   let password = '123456';
 
   it('should register a new user', async () => {
